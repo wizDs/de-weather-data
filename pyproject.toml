@@ -1,0 +1,15 @@
+[project]
+name = "electricity"
+version = "0.0.1"
+authors = [
+  { name="wiz", email="wilsonzhou92@gmail.com" },
+]
+description = "Electricity"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
